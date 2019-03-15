@@ -1,8 +1,8 @@
-# ScaleConf Colombia Code of Conduct
+# MedellínDevOps Code of Conduct
 
 ## 1. Purpose
 
-A primary goal of ScaleConf Colombia is to be inclusive to the largest number of contributors, with
+A primary goal of MedellínDevOps is to be inclusive to the largest number of contributors, with
 the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly,
 safe and welcoming environment for all, regardless of gender, sexual orientation, ability,
 ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -10,7 +10,7 @@ ethnicity, socioeconomic status, and religion (or lack thereof).
 This code of conduct outlines our expectations for all those who participate in our community, as
 well as the consequences for unacceptable behavior.
 
-We invite all those who participate in ScaleConf Colombia to help us create safe and positive
+We invite all those who participate in MedellínDevOps to help us create safe and positive
 experiences for everyone.
 
 ## 2. Open Culture Citizenship
@@ -73,10 +73,10 @@ without warning (and without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a
 community organizer as soon as possible. You may also reach the organizing team at
-[hola@scaleconfco.com](mailto://hola@scaleconfco.com)
+[medellindevops@gmail.com](mailto://medellindevops@gmail.com)
 
 Please read the
-[reporting guidelines](https://github.com/ScaleConfCo/code-of-conduct/blob/master/reporting-template.md).
+[reporting guidelines](https://github.com/medellindevops/code-of-conduct/blob/master/reporting-template.md).
 
 Additionally, community organizers are available to help community members engage with local law
 enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context
@@ -104,12 +104,15 @@ the safety and well-being of community members.
 If you have any questions, comments, concerns, or to report anything that makes you feel
 uncomfortable or unsafe, you can use these channels:
 
-[hola@scaleconfco.com](mailto:hola@scaleconfco.com)
+[medellindevops@gmail.com](mailto:medellindevops@gmail.com)
 
 Send a direct message to the following Twitter accounts:
-* Catherine Lopez - [@LopezCatherine](https://twitter.com/LopezCatherine)
 * Jonathan Avendaño - [@jdavidavendano](https://twitter.com/jdavidavendano)
-* ScaleConf Colombia - [@scaleconfco](https://twitter.com/scaleconfco)
+* Mariana Mendivil - [@mari_mendidu](https://twitter.com/mari_mendidu)
+* Medellín DevOps - [@mde_devops](https://twitter.com/mde_devops)
+
+Send a direct message to the followinf Instagram account:
+* Medellín-DevOps - [medellindevops](https://www.instagram.com/medellindevops)
 
 ## 10. License and attribution
 
