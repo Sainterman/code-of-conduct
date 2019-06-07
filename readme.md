@@ -109,9 +109,10 @@ uncomfortable or unsafe, you can use these channels:
 Send a direct message to the following Twitter accounts:
 * Jonathan Avendaño - [@jdavidavendano](https://twitter.com/jdavidavendano)
 * Mariana Mendivil - [@mari_mendidu](https://twitter.com/mari_mendidu)
+* Sebastián Vallejo - [@svallejoroldan](https://twitter.com/svallejoroldan)
 * Medellín DevOps - [@mde_devops](https://twitter.com/mde_devops)
 
-Send a direct message to the followinf Instagram account:
+Send a direct message to the following Instagram account:
 * Medellín-DevOps - [medellindevops](https://www.instagram.com/medellindevops)
 
 ## 10. License and attribution
