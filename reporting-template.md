@@ -1,7 +1,7 @@
 # Reporting
 
 If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact a member of conference staff immediately either in-person, via email [medellindevops@gmail.com](medellindevops@gmail.com) or via social networks:
+any other concerns, please contact a member of conference staff immediately either in-person, via email [medellindevops@gmail.com](mailto://medellindevops@gmail.com) or via social networks:
 - Twitter [@mde_devops](https://twitter.com/mde_devops)
 - Instagram [@medellindevops](https://www.instagram.com/medellindevops)
 
