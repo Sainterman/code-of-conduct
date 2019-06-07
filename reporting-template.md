@@ -1,10 +1,11 @@
 # Reporting
 
 If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact a member of conference staff immediately either in-person or via
-the information below. Conference staff can be identified by their STAFF t-shirts. Conference staff
-will be happy to help participants contact hotel/venue security or local law enforcement, provide
-escorts, or otherwise assist those experiencing harassment to feel safe.
+any other concerns, please contact a member of conference staff immediately either in-person, via email [medellindevops@gmail.com](medellindevops@gmail.com) or via social networks:
+- Twitter [@mde_devops](https://twitter.com/mde_devops)
+- Instagram [@medellindevops](https://www.instagram.com/medellindevops)
+
+Conference staff can be identified by their STAFF t-shirts. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe.
 
 We recommend you use the following template to report any incident:
 
